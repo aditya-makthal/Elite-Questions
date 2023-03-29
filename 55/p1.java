@@ -48,7 +48,9 @@ Sample Output-2:
 */
 /*
 //TreeNode Structure for Your Reference..
+*/
 
+import java.util.*;
 class Node{
 	public int data; 
 	public Node left, right; 
@@ -58,9 +60,6 @@ class Node{
 		right = null; 
 	}
 }
-
-*/
-import java.util.*;
 class p1 {
     public Node reverseValuesInOddLevel(Node root) {
         Node rt = root;

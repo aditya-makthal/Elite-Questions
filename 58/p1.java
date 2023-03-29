@@ -48,7 +48,7 @@
 import java.util.*;
 /*
 //TreeNode Structure for Your Reference..
-
+*/
 class Node{
 	public int data; 
 	public Node left, right; 
@@ -59,7 +59,6 @@ class Node{
 	}
 }
 
-*/
 
 class p1 {
     Boolean isLeaf(Node root) {
