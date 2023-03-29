@@ -83,7 +83,7 @@ class Trie{
         return cnt;
     }   
 }
-class Solution{
+class p1{
     static int solve(String s){
         int n = s.length();
         Trie tr = new Trie();

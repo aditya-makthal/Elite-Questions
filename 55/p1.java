@@ -61,7 +61,7 @@ class Node{
 
 */
 import java.util.*;
-class Solution {
+class p1 {
     public Node reverseValuesInOddLevel(Node root) {
         Node rt = root;
         Queue<Node> q = new LinkedList<>();

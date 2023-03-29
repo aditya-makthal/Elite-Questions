@@ -59,7 +59,7 @@ class Node{
 
 */
 
-class Solution {
+class p1 {
     public List<Integer> rightSideView(Node root) {
         Queue<Node> q = new LinkedList<>();
         q.offer(root);

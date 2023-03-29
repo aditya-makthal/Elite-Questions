@@ -38,7 +38,7 @@ Sample output-2:
 */
 
 import java.util.*;
-class Solution{
+class p1{
     public static void main (String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt(), k = sc.nextInt();
